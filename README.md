@@ -2,7 +2,7 @@
 Interactive ToDo is a WebApp, made with React. It is very efficient to store and manage users To Do Workbook.
 Copyrights & Developed by - Sudip Mitra
 
-![image](https://user-images.githubusercontent.com/44464604/168769209-7b922a78-1d7b-488f-bc6b-bbe4fd68ea2e.png)
+![Capture](https://user-images.githubusercontent.com/44464604/168769561-5834224b-504f-4e10-b80e-eeffa27636dc.PNG)
 
 Steps:
 1. Create react app with node
